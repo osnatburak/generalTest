@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5vsYhlf1gCM_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">generalTest</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="generalTest_ORG">
+    <organization identifier="generalTest_ORG">
+      <title>generalTest</title>
+      <item identifier="מבחן_אסנת_בורק_SCO" isvisible="true" identifierref="__5vsYhlf1gCM_course_id_RES">
+        <title>generalTest</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5vsYhlf1gCM_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6hQTQ2fc3OM_80_P_0_180_1365_1687.jpg" />
+      <file href="mobile/6dAAZspUo1A_P_257_0_186_273.png" />
+      <file href="mobile/5nn3tOPtadh.png" />
+      <file href="mobile/6DNTZA2sxz0.png" />
+      <file href="mobile/6BRcryftlzZ_P_0_0_194_238.png" />
+      <file href="mobile/5je5U9nPISb.png" />
+      <file href="mobile/6dMkVkcqysJ.png" />
+      <file href="mobile/5rfTEfJtQXg.jpg" />
+      <file href="mobile/5XuiD7KG2PM.jpg" />
+      <file href="mobile/6Pwtscq8gVm.jpg" />
+      <file href="mobile/60y2GSQggwA_P_5_0_95_65.jpg" />
+      <file href="mobile/6edjNUYYVFH_P_0_10_754_271.jpg" />
+      <file href="mobile/6gNiy3j4H1Y.jpg" />
+      <file href="mobile/6GlcsA6WFhc.png" />
+      <file href="mobile/6Gt5jICS3RC_P_0_39_776_345.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5glBpMcHE5k.js" />
+      <file href="html5/data/js/5kWVzwqRGka.js" />
+      <file href="html5/data/js/5qAB1bloW2r.js" />
+      <file href="html5/data/js/5t5gsCmM6ms.js" />
+      <file href="html5/data/js/5Unqcikwvjj.js" />
+      <file href="html5/data/js/5vL2Tdo4mdv.js" />
+      <file href="html5/data/js/67HvDG44VzE.js" />
+      <file href="html5/data/js/6I19Gwto2sk.js" />
+      <file href="html5/data/js/6m4pDzwdRsC.js" />
+      <file href="html5/data/js/6qACEA6BPAL.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
